@@ -63,7 +63,7 @@ laradmin v1.0
                                 </div>
                                 <div class="panel-body">
                                     <p>
-                                    	<a href="http://www.baidu.com">http://www.baidu.com</a>
+                                    	<a href="https://github.com/gh0s1/laradmin.git">https://github.com/gh0s1/laradmin.git</a>
                                 	</p>
                                 </div>
                             </div>
